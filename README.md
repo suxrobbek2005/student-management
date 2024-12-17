@@ -32,6 +32,7 @@ Dars haqidagi ma'lumotlarni saqlaydi:
 O'quvchining baholari haqida ma'lumotni saqlaydi:
 - **`lesson`**: `Lesson` (Dars)
 - **`student`**: `Student` (O'quvchi)
+- **`score`**: int (O'quvchining bir dars boyicha bahosi)
 
 ## Funksiyalar
 

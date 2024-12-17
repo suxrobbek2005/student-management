@@ -29,6 +29,7 @@ typedef struct {
 typedef struct {
     Lesson lesson;
     Student student;
+    int score;
 } Score;
 
 // Global Variables
